@@ -1,0 +1,54 @@
+h1{
+    text-align: center;
+    color: red;
+}
+h2{
+    text-align: center;
+    color: blue;
+}
+table{
+    margin: 0 auto;
+    border: 10px;
+}
+th{
+    li {
+    float: left;
+}
+
+a {
+    display: block;
+    padding: 8px;
+    background-color: #dddddd;
+}
+    border-collapse: collapse;
+    border: 1px black solid;
+    border-radius: 10px;
+}
+td{
+   border: 0px black solid; 
+   border-radius: 10px;
+   padding: 10px;
+}
+.descripcion >td >p{
+    height: 200px;
+}
+img{
+    border: 2px blue solid;
+    border-radius: 10px;
+    height: 300px;
+    width: 200px;
+}
+p{
+    height: 300px;
+    width: 200px;
+    text-align: justify;
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-inline-end: 0;
+}
+button{
+    border: 2px blue solid;
+    border-radius: 10px;
+    color: blueviolet;
+    
+}
